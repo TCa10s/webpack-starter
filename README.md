@@ -10,7 +10,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/TCa10s/todo-list-js/main/img/todo-list.jpeg)
+![screenshot](https://raw.githubusercontent.com/TCa10s/webpack-starter/main/src/assets/webpack-initial.jpeg)
 
 
 ## Notas
