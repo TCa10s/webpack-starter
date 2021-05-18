@@ -1,0 +1,1 @@
+(()=>{"use strict";setTimeout((function(){greet("we start? ")}),2e3)})();
