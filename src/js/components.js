@@ -4,8 +4,8 @@
 */
 import '../css/components.css';
 
-export const greet = (player) => {
+export const greet = (msg) => {
   const h2 = document.createElement('h2');
-  h2.innerText = `${player}`;
+  h2.innerText = `${msg}`;
   document.body.append(h2);
 }
