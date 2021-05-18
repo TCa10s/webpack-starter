@@ -1,4 +1,5 @@
 import './styles.css';
+import { greet } from './js/components';
 
 const player = 'we start? ';
 
