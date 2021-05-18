@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://tca10s.github.io/todo-list-js/">
+    <a href="https://tca10s.github.io/webpack-starter/">
       Demo
     </a>
   </h3>
@@ -10,7 +10,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/TCa10s/todo-list-js/main/img/todo-list.jpeg)
+![screenshot](https://raw.githubusercontent.com/TCa10s/webpack-starter/main/src/assets/webpack-initial.jpeg)
 
 
 ## Notas
@@ -21,10 +21,16 @@ Recuerden reconstruir los módulos de Node.
 npm install
 ```
 
-Y para reconstruir el build, recuerden:
+Para reconstruir el build, recuerden:
 
 ```
 npm run build
+```
+
+Y por último:
+
+```
+npm start
 ```
 
 ## Contact
