@@ -5,9 +5,7 @@
 import '../css/components.css';
 
 export const greet = (player) => {
-  console.log('Creating tag h1');
-  const h1 = document.createElement('h1');
-  h1.innerText = `Hello, ${player}!`;
-
-  document.body.append(h1);
+  const h2 = document.createElement('h2');
+  h2.innerText = `${player}`;
+  document.body.append(h2);
 };
