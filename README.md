@@ -1,4 +1,4 @@
-<h1 align="center">Task list</h1>
+<h1 align="center">Webpack starter</h1>
 
 <div align="center">
   <h3>
