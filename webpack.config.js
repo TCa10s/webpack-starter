@@ -59,4 +59,5 @@ module.exports = {
       patterns: [{ from: "src/assets", to: "assets/" }],
     }),
   ],
+  devtool: 'eval-cheap-source-map',
 };
