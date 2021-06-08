@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://tca10s.github.io/webpack-starter/">
+    <a href="https://tcar10s.github.io/webpack-starter/">
       Demo
     </a>
   </h3>
@@ -10,7 +10,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/TCa10s/webpack-starter/main/src/assets/webpack-initial.jpeg)
+![screenshot](https://raw.githubusercontent.com/TCar10s/webpack-starter/main/src/assets/webpack-initial.jpeg)
 
 
 ## Notas
@@ -36,5 +36,5 @@ npm start
 ## Contact
 
 - Website [www.tutoscarlos.xyz](https://www.tutoscarlos.xyz)
-- GitHub [@TCa10s](https://https://github.com/TCa10s)
+- GitHub [@TCa10s](https://https://github.com/TCar10s)
 - Twitter [@Tutos_Carlos11](https://twitter.com/Tutos_Carlos11)
