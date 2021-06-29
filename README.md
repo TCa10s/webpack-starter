@@ -27,6 +27,12 @@ Para reconstruir el build, recuerden:
 npm run build
 ```
 
+Paquete para configurar un servidor de desarrollo:
+
+```6
+npm i -D webpack-dev-server
+```
+
 Y por último:
 
 ```
